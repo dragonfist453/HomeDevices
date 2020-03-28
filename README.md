@@ -7,4 +7,4 @@ According to the query string for every app route, state of light is decided.
 
 This app is very simplistic as of now and has no extra features except for 7 switches to control specific set of lights
 
-![Screenshot of app](/images/app-screenshot.jpg){:height="30%" width="30%"}
+![Screenshot of app](/images/app-screenshot.jpg)

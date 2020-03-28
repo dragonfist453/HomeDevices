@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Home Devices</string>
+    <string name="description">Home automation lights control</string>
+    <string name="switch1">Room RGB lights</string>
+    <string name="switch2">Room False ceiling lights</string>
+    <string name="switch3">Hall short edge lights</string>
+    <string name="switch4">Hall corner lights</string>
+    <string name="switch5">Hall long edge small lights</string>
+    <string name="switch6">Hall long edge big lights</string>
+    <string name="switch7">Hall RGB lights</string>
+    <string name="ip">192.168.86.220</string>
+    <string name="ip_set">Set IP address</string>
+</resources>
